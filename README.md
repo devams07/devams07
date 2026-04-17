@@ -43,7 +43,7 @@
 
 👁 VISITOR COUNTER
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=log0207&label=Visitors&color=00ffcc&style=flat"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=devams07&label=Visitors&color=00ffcc&style=flat"/> </p>
 
 🌐 CONNECT
 <p align="center"> <a href="https://github.com/devams07"> <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/> </a></p>
