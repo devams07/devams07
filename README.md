@@ -40,7 +40,7 @@
 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devams07/devams07/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://raw.githubusercontent.com/devams07/devams07/output/github-contribution-grid-snake.svg"/>
 </p>
 
 👁 VISITOR COUNTER
