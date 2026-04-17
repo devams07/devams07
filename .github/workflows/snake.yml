@@ -19,7 +19,7 @@ jobs:
           github_user_name: devams07
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to repo
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
