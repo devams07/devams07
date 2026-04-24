@@ -22,7 +22,7 @@
 - 🛡️ Ransomware Honeypot  
 - 🌐 Courzeo Fully Functional Website
 - 🛡️ WAPT - Web Application Penetration Testing Tool
-- 🤖 Spam Detector (LSTM आधारित AI Model)
+- 🤖 Spam Detector (LSTM AI Model)
 
 ---
 
