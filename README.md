@@ -23,6 +23,7 @@
 - 🌐 Courzeo Fully Functional Website
 - 🛡️ WAPT - Web Application Penetration Testing Tool
 - 🤖 Spam Detector (LSTM AI Model)
+- 🕵️‍♂️ Reconnaissance Tool
 
 ---
 
