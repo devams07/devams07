@@ -67,6 +67,10 @@
 
 ---
 
+🏆 GITHUB TROPHIES
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=devams07&theme=matrix&no-frame=true&no-bg=true"/> </p>
+
+
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
