@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&color=FFD700&size=28&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Penetration+Testing+Learner;AI+Security+Learner">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Comic+Sans+MS&color=FFD700&size=28&center=true&vCenter=true&width=900&lines=Cybersecurity+Student;Security+Operation+Center+Learner;AI+Security+Learner">
 </p>
 
 # 🕶️ WHOAMI
@@ -13,7 +13,7 @@
 > user: devams07  
 > name: Deva M S  
 > role: Cyber Security Student  
-> focus: Penetration Testing, Web Security, AI Security  
+> focus: SOC, SIEM, Threat Monitoring, Cybersecurity Learning, Web Security, AI Security 
 > mission: To Learn and Grow in the Field of Cybersecurity, Contributing to a safer Digital World.
 
 ---
