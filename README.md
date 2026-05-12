@@ -10,10 +10,10 @@
 
 # 🕶️ WHOAMI
 
-> user: devams07  
-> name: Deva M S  
-> role: Cyber Security Student  
-> focus: SOC, SIEM, Threat Monitoring, Cybersecurity Learning, Web Security, AI Security 
+> user: devams07<br>
+> name: Deva M S<br>
+> role: Cyber Security Student<br>
+> focus: SOC, SIEM, Threat Monitoring, Cybersecurity Learning, Web Security, AI Security<br>
 > mission: To Learn and Grow in the Field of Cybersecurity, Contributing to a safer Digital World.
 
 ---
