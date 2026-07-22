@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=red"/>
 <img src="https://img.shields.io/badge/Nikto-black?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQLMap-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
 </p>
 
 ---
