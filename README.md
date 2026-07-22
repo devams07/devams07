@@ -19,6 +19,7 @@
 ---
 
 ## 🧠 CURRENT PROJECTS
+- 🛡️ SOC Log Analyzer
 - 🛡️ Ransomware Honeypot  
 - 🌐 Courzeo Fully Functional Website
 - 🛡️ WAPT - Web Application Penetration Testing Tool
